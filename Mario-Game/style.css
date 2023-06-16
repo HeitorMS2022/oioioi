@@ -1,0 +1,35 @@
+body{
+    background-image: url("azul.jpeg");
+    background-size: cover;
+}
+.oii{
+    width: 100%;
+    text-align: left;
+}
+.oii h3{
+    display: inline;
+}
+.oii button{
+    float: right;
+    border-color: chocolate;
+}
+.modal-dialogue{
+    width: 90%;
+}
+.imgs{
+    width: 45%;
+    display: inline-block;
+}
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+#oioi{
+    bottom: 0;
+    float: inline-end;
+    color: chocolate;
+    background-color: chartreuse;
+    position: sticky;
+}
